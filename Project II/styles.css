@@ -1,0 +1,65 @@
+/* 添加 CSS */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 322px;
+	border: 1px #E8E8E8 solid;
+	margin: 10px;
+	box-shadow: 5px 5px 0px rgba(222,222,222,1);
+	font-family: "Miscrosoft YaHei",Arial,"sans serif";
+	background: #ccc;
+	border-radius: 5px;
+}
+
+/*头部部分*/
+h3 {
+	width: 300px;
+	text-align: center;
+	border: 0px #fff solid;
+	margin: 20px 10px 10px 10px;
+}
+
+.pic {
+	width: 	300px;
+	height: 200px;
+	border: 1px #E8E8E8 solid;
+	margin: 10px 10px 0px 10px;
+}
+
+/*主体部分*/
+.main {
+	border: 1px #E8E8E8 solid;
+	width: 280px;
+	margin:  10px;
+	padding: 10px;
+}
+
+.tips {
+	font-style: italic;
+	font-size: 15px;
+	text-indent: 2em;
+	margin-bottom: 15px;/*
+	border: 1px #E8E8E8 solid;*/
+}
+
+.title {
+	list-style: none;
+	line-height: 1.5em;/*
+	border: 1px #E8E8E8 solid;*/
+}
+
+.title li span {
+	word-spacing: 0.5em;
+	font-weight: bold;
+
+ }
+
+.description {
+	margin-top: 15px;
+	text-indent: 2em;
+	line-height: 1.5em;/*
+	border: 1px #E8E8E8 solid;*/
+}
